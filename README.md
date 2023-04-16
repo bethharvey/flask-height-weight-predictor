@@ -3,7 +3,7 @@ Building and deploying a machine learning model
 
 Beth Harvey
 
-Applied Machine Learning
+Applied Machine Learning, Spring 2023 Block 2
 
 Module 6
 
