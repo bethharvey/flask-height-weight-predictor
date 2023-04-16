@@ -1,9 +1,10 @@
 # README
 
-This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
+Building and deploying a machine learning model
 
-The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
+Beth Harvey 
+Applied Machine Learning 
+Module 6 
+April 16, 2023
 
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-flask.
+Going through the process of building and deploying a machine learning model.
