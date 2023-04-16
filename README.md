@@ -11,6 +11,6 @@ April 16, 2023
 
 Going through the process of building and deploying a machine learning model.
 
-The final model is a pipelined polynomial linear regression model that uses a person's height to predict their weight.
+The final model is a pipelined polynomial linear regression model that uses a person's height in centimeters to predict their weight in kilograms.
 This model was trained on the Howell dataset.
 The deployed model and example API can be found at https://height-weight-predictor.onrender.com/
